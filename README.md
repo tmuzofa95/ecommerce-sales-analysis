@@ -12,7 +12,7 @@ This is an end-to-end data analysis project built to simulate the full pipeline 
 
 ## 🗃️ Dataset
 
-- **Source:** [Kaggle — E-Commerce Data](https://www.kaggle.com/datasets/carrie1/ecommerce-data)
+- **Source:** [Kaggle - E-Commerce Data](https://www.kaggle.com/datasets/carrie1/ecommerce-data)
 - **Original Rows:** 541,909 records
 - **Cleaned Rows:** 397,884 records
 - **Data includes:** Invoices, products, quantities, prices, customers and countries
@@ -102,4 +102,3 @@ ecommerce-sales-analysis/
 
 ---
 
-*This project is part of my data analyst portfolio. Feel free to explore the files and reach out if you have any feedback.*
